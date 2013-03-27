@@ -946,7 +946,7 @@ namespace OdbLib
 	}
 	
 	
-	public class OdbStream : Stream
+	public class GOdbStream : Stream
 	{
 		private GODB m_odb;
 		private GObjectBlock m_objectBlock;
